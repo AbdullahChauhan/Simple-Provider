@@ -299,7 +299,7 @@ class Dob {
 
 class Id {
   String name;
-  Null value;
+  String value;
 
   Id({this.name, this.value});
 
